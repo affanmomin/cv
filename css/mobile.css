@@ -1,0 +1,43 @@
+/* mobiles */
+
+@media(max-width: 768px) {
+    .top-container {
+        max-width: 768px;
+    }
+
+    .mountain-pic {
+        max-width: 100%;
+    }
+
+    .bottom-cloud {
+
+        position: absolute;
+        left: 180px;
+        bottom: 300px;
+
+    }
+
+    .top-cloud {
+        position: absolute;
+        top: 60px;
+        right: 200px;
+    }
+
+    h1 {
+        font-size: 70px;
+        margin-bottom: 3rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
+    .contact-me p {
+        width: 90%;
+        padding: 0 20px;
+    }
+
+
+    .skills h2 {
+        margin: 0;
+    }
